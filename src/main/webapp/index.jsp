@@ -13,7 +13,7 @@
         /* ========== ROOT VARIABLES ========== */
         :root {
             --bg: #fafaf8;
-            --bg-card: #ffffff;
+            --bg-card: #fffffff;
             --primary: #1a1a2e;
             --primary-light: #2d2d44;
             --accent: #e07a5f;
